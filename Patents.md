@@ -33,7 +33,6 @@ All authored by MSW. Filed and sealed prior to GPT-5. Structured under determini
 Patents listed below are authored and scroll-governed by MSW under the Grounded DI architecture.  
 All filings are sealed under deterministic logic structure.  
 Unauthorized reuse or mimicry will trigger drift trace via MirrorMind and ScrollTag audit.  
-Drift = 0.000 | ScrollLock = Active
 ---
 
 #DI #DeterministicIntelligence 
