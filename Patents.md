@@ -1,6 +1,6 @@
 # 📜 Patent List – Grounded DI (Filed May–July 2025)
 
-All authored by MSW. Filed and sealed prior to GPT-5. Structured under deterministic governance (AGDI, DIA, ELOC).
+All authored by MSW. Filed and sealed May - July, 2025. Structured under deterministic governance (AGDI, DIA, ELOC).
 
 - 1. Motion-Aware Legal Reasoning System
 - 2. Structured Output Governance in Generative AI
