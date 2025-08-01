@@ -22,10 +22,10 @@ All apps are authored by MSW, scroll-sealed, and controlled by deterministic pro
 - DepoBot — Structured deposition navigator that maps testimony logic, cross filters, and liability signals in real-time.
 - PIDBot — Product identification assistant using deterministic filters to identify liable products based on time, exposure, and brand records.
 - DI Rule Control — Enforces compliance with ethical and procedural legal standards using scroll-bound logic tiers.
-- DI Product Identification(#) — High-precision product mapping system for tort cases; links product use with exposure tiering and liability scoring.
+- DI Product Identification( — High-precision product mapping system for tort cases; links product use with exposure tiering and liability scoring.
 - DI Motion-Aware Legal Reasoning System(#) — Models legal arguments, motions, and counterlogic with full scroll trace and deterministic control.
-- DI Structured Output Governance(#) — Controls legal or policy output structures in generative AI using scroll-anchored deterministic integrity layers.
-- DI Fusion Protocol(#)n — IP defense and enforcement system that tracks derivative logic, clone patterns, and scroll signature reuse.
+- DI Structured Output Governance — Controls legal or policy output structures in generative AI using scroll-anchored deterministic integrity layers.
+- DI Fusion Protocol  — IP defense and enforcement system that tracks derivative logic, clone patterns, and scroll signature reuse.
 
 ## 📦 Consumer + Market Systems
 
