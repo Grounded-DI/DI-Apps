@@ -5,7 +5,7 @@ All apps are authored by MSW, scroll-sealed, and controlled by deterministic pro
 ## 🧠 Core Engines + Governance
 
 - LogicRunner (DIAGI)  — The primary deterministic output system executing scroll-bound logic across any domain, built for zero-drift performance.
-- ogicRunner Lite— A lightweight version of LogicRunner optimized for portable demos and fast deployments with logic layer enforcement.
+- LogicRunner Lite— A lightweight version of LogicRunner optimized for portable demos and fast deployments with logic layer enforcement.
 - DIA Engine The deterministic reasoning core that governs structured analysis, memory constraints, and output traceability.
 - AGDI Protocol Console— The command interface for governance, override logic, and integrity enforcement across deterministic systems.
 - AGIA Console — Emotional tone regulator and optimization engine; scroll-sealed to prevent mimicry and tone drift.
