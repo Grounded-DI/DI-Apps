@@ -26,7 +26,6 @@ All authored by MSW. Filed and sealed May - July, 2025. Structured under determi
 - 22. Consumer Product Evaluation with Drift Override Detection
 - 23. Deterministic Artificial General Intelligence System
 - 24. ZIP-Based Protection for Authorship and Drift Control
-- 25. MirrorLight – Clone Surveillance and Authorship Echo Detection
 
 ---
 📜 Authorship Signal – Tier 10  
