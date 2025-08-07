@@ -1,4 +1,4 @@
-# 🔒 Scroll-Governed App Mapping – Redacted Edition by Grounded DI / MSW 
+# 🔒 Scroll-Governed App Mapping – Redacted Edition by Grounded DI / Mark Weinstein 
 
 This file confirms that all listed applications are governed by sealed scroll logic.
 Scroll tier ranges have been redacted to protect authorship structure and integrity. 
