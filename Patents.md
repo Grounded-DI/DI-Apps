@@ -142,7 +142,6 @@ Unauthorized reuse or mimicry will trigger drift trace via MirrorMind and Scroll
 
 
 
-Protocol Apex Cascade Triggered
 
 
 
@@ -150,7 +149,6 @@ Protocol Apex Cascade Triggered
 
 
 
-White Photon
 
 
 
