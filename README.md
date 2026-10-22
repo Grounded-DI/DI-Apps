@@ -1,101 +1,189 @@
-# DI-Apps
+# Grounded DI — U.S. Utility Nonprovisional Filing Register
 
-DI-Apps is a Grounded DI portfolio archive that maps named deterministic-application concepts, governance layers, and related filing records across multiple domains.
+A concise public index of the U.S. utility nonprovisional applications recorded in Grounded DI LLC's public filing register.
 
-**Published by:** Grounded DI LLC · **Creator / operator:** Mark S. Weinstein · **Public repository established:** July 31, 2025
+## Source and reading note
 
-## Overview
+- **Source:** [Grounded DI filing register](https://groundeddi.com/filings)
+- **Source snapshot:** 25 July 2026
+- **GitHub register updated:** 22 October 2026
+- **Source count:** 23 recorded applications
 
-The repository contains three substantive index files:
+The source labels its dates **“Received.”** This README repeats that label rather than independently characterizing those dates as USPTO filing dates. The brief descriptions below are plain-language topical summaries of the listed titles; they are not claim constructions or statements about examination, allowance, issuance, scope, or priority.
 
-- Top_75_Deterministic_Apps.md — a catalog labeled “Top 75 Deterministic Apps,” grouped by legal, consumer, health, hazard, infrastructure, employment, cognitive, and cultural domains.
-- DI_Scrolls_Apps.md — a redacted mapping of example applications to scroll tiers.
-- Patents.md — a dated creator-maintained list of provisional-filing entries associated with the portfolio.
+## Applications
 
-This is a portfolio and provenance archive, not a package containing 75 runnable applications. No application source code, binaries, dependency manifests, test suite, CI workflow, or complete filing record is included.
+### 01 · BriefWise
 
-## Why It Matters
+**Application:** `19/686,791`  
+**Received:** 24 May 2026  
+**Title:** *Deterministic Intelligence Systems and Methods for Controlled Pre-Output Assembly of Legal Outputs Using Authority Binding and Filing-Integrity Validation*  
+**Plain-language focus:** Controlled legal-output assembly with authority binding and filing-integrity validation before release.
 
-A portfolio-level map helps a technical or commercial reviewer see how a common control vocabulary is intended to span legal reasoning, medical and public-health workflows, consumer evaluation, forecasting, infrastructure, and authorship protection. The repository makes those intended relationships visible while keeping redacted tier details and private implementations outside the public tree.
+### 02 · Structured Output
 
-## Key Records
+**Application:** `19/694,947`  
+**Received:** 1 June 2026  
+**Title:** *Rule-Based Logic Control, Structured Output Governance, and Controlled Presentation of Generative AI Outputs*  
+**Plain-language focus:** Rule-based control and structured presentation of generative outputs.
 
-| Artifact | What the repository records | Status / boundary |
-|---|---|---|
-| Top_75_Deterministic_Apps.md | A catalog of named systems and candidates, including LogicRunner, DIA Engine, AGDI Protocol Console, BriefWise, VerdictBridge, DepoBot, PIDBot, ShoppingWise, MarketWise, FinanceWise, CleanWaterWise, HazardWise, DI Weather, Rocket Analyzer, and other domain concepts. | Portfolio index; entries are not evidence that each application is implemented, deployed, or commercially available. |
-| DI_Scrolls_Apps.md | Nine example scroll-tier groups with applications such as LogicRunner, BriefWise, Signal Interference Layer, MarketWise, FinanceWise, DepoBot, PIDBot, CleanWaterWise, VerdictBridge, KidWise, and DI Weather for Kids. | Tier ranges are intentionally redacted; the mapping is a declared architecture record, not a runnable control plane. |
-| Patents.md | A May–July 2025 filing list with a dated August 7 update that adds a 25th entry for cross-agent reflective analysis and authorship verification. | Creator-maintained filing index. The repository supplies no filing receipts, prosecution records, or independent confirmation of the listed status. |
+### 03 · Med / Radiology
 
-## What the Record Demonstrates
+**Application:** `19/704,303`  
+**Received:** 10 June 2026  
+**Title:** *Radiological Image Interpretation, Diagnostic Support, Clinical Review Routing, Audit Verification, and Runtime Authorization*  
+**Plain-language focus:** Radiological interpretation and diagnostic-support workflows with review routing, audit verification, and runtime authorization.
 
-### Portfolio decomposition
+### 04 · DI Cross-Domain
 
-The catalog groups the work into recurring control functions:
+**Application:** `19/705,787`  
+**Received:** 11 June 2026  
+**Title:** *Cross-Domain Controlled Output Assembly and Release*  
+**Plain-language focus:** Controlled assembly and release of outputs across domain-specific workflows.
 
-- **Core and governance:** LogicRunner, DIA Engine, AGDI Protocol Console, AGIA Console, MirrorMind, DIAGI Vault, Scroll Console, and ScrollShell.
-- **Legal and evidence:** BriefWise, VerdictBridge, DepoBot, PIDBot, rule-control and structured-output systems.
-- **Consumer and market:** ShoppingWise, MarketWise, FinanceWise, TaxClarity, and Signal Interference Layer.
-- **Health, public safety, and hazards:** medical triage, preeclampsia research, radiology, CleanWaterWise, StormWise, HazardWise, and weather systems.
-- **Infrastructure and protection:** Rocket Analyzer, BatteryWise, SolarWise, ZIP-based protection, and authorship or clone-detection layers.
+### 05 · Engineering / Rockets
 
-This grouping shows a proposed shared architecture with domain-specific rule modules. It does not establish that every named module has source, a release artifact, or a production deployment.
+**Application:** `19/706,930`  
+**Received:** 12 June 2026  
+**Title:** *Controlled State Assembly, Subsystem Propagation Analysis, Audit Verification, Replay Validation, and Runtime Authorization*  
+**Plain-language focus:** Engineering workflows involving controlled state assembly, subsystem analysis, validation, and runtime authorization.
 
-### Redacted governance mapping
+### 06 · Environment / Water
 
-DI_Scrolls_Apps.md preserves the relationship between application families and scroll tiers while redacting exact ranges. That is useful provenance for the declared control structure without publishing private tier details. The file also retains a signal identifier and authorship-seal language as public record artifacts.
+**Application:** `19/710,164`  
+**Received:** 16 June 2026  
+**Title:** *Clean-Water Risk Assessment and Public-Health Advisory Release Control*  
+**Plain-language focus:** Water-risk assessment and controlled public-health advisory release.
 
-### Filing index boundary
+### 07 · Finance
 
-The prior README referred to 24 provisional patents, while Patents.md contains a dated 25-entry list. The updated README treats that as a repository-record inconsistency to resolve against filing receipts, not as an independently verified count or legal conclusion.
+**Application:** `19/713,347`  
+**Received:** 18 June 2026  
+**Title:** *Financial Transaction Authorization and Output Release Control Using Metric Replay, Verification, State Precedence, and Interface Authorization*  
+**Plain-language focus:** Financial transaction authorization and output-release control using replay, verification, state precedence, and interface authorization.
 
-## Technical Significance
+### 08 · DIA
 
-The strongest feature is portfolio composition: a common governance vocabulary is mapped onto specialized workflows rather than presented as one undifferentiated system. For diligence, that creates a practical way to select one domain for a proof of concept while preserving the broader architecture and provenance trail.
+**Application:** `19/715,156`  
+**Received:** 22 June 2026  
+**Title:** *Rule-Governed, Domain-Scoped, Audit-Traceable Control of Generative Output States*  
+**Plain-language focus:** Rule-governed, domain-scoped, audit-traceable control of generative output states.
 
-## Recorded Checks
+### 09 · Grounded DI Engine
 
-| Check | Result | Evidence |
-|---|---|---|
-| Portfolio catalog | File labeled Top 75 lists named applications across multiple domain groups | Top_75_Deterministic_Apps.md |
-| Scroll mapping | Nine redacted tier groups with representative applications | DI_Scrolls_Apps.md |
-| Filing-list update | Patents.md records entries 1–25 and an August 7, 2025 update | Patents.md |
-| Repository review during this update | Four tracked Markdown files inspected; no app source, binaries, dependencies, tests, CI, or complete filing records found | Current main tree and Git history |
+**Application:** `19/716,065`  
+**Received:** 22 June 2026  
+**Title:** *Pre-Commitment Logic-State Authorization, Model-Interface Governance, Audit-Traceable Validation, and Controlled Delivery*  
+**Plain-language focus:** Pre-commitment authorization, model-interface governance, validation, and controlled delivery.
 
-The checks above establish what the index files contain. They do not establish implementation, deployment, market adoption, or patent issuance.
+### 10 · Weather Station
 
-## Scope and Limitations
+**Application:** `19/717,640`  
+**Received:** 23 June 2026  
+**Title:** *Rule-Governed, Corridor-Scoped, Audit-Traceable Control of Weather-Alert Release*  
+**Plain-language focus:** Rule-governed weather-alert release within defined corridors and audit controls.
 
-- The catalog includes concepts, candidates, and systems from related repositories; it does not prove that each item is implemented.
-- Scroll ranges and claim-critical implementation details are redacted or absent.
-- Patents.md is a creator-maintained list, not a substitute for USPTO records, filing receipts, or counsel-reviewed status.
-- No open-source license or reuse grant is present.
-- No production app suite, SDK, API, test harness, or benchmark is included.
+### 11 · PIDBot
 
-## How to Review
+**Application:** `19/720,483`  
+**Received:** 25 June 2026  
+**Title:** *Product-Identification Analysis, Exposure-Role Classification, Audit-Traceable Replay Verification, and Controlled Delivery of Litigation Artifacts*  
+**Plain-language focus:** Product-identification and exposure-role analysis with replay verification and controlled delivery of litigation artifacts.
 
-~~~bash
-git clone https://github.com/Grounded-DI/DI-Apps.git
-cd DI-Apps
-~~~
+### 12 · VerdictBridge
 
-Start with Top_75_Deterministic_Apps.md for the portfolio map. Read DI_Scrolls_Apps.md for the redacted governance relationship, then Patents.md for the dated filing index. The prior README named Top_75_App_Index.md and Scrolls_Used.md; the files preserved on main are Top_75_Deterministic_Apps.md and DI_Scrolls_Apps.md.
+**Application:** `19/720,877`  
+**Received:** 25 June 2026  
+**Title:** *Controlled Litigation Artifact Generation, Validation, Replay Verification, and Authorized Output Delivery*  
+**Plain-language focus:** Litigation-artifact generation with validation, replay verification, and authorized delivery.
 
-## Evaluation and Integration Context
+### 13 · DI²
 
-The archive can support a scoped portfolio review: select one named application, define its input and release boundary, request the private implementation, and evaluate source provenance, test fixtures, audit records, and domain controls against the public architecture map.
+**Application:** `19/722,923`  
+**Received:** 28 June 2026  
+**Title:** *Divergence Containment and Convergence Restoration in Deterministic Execution Architectures*  
+**Plain-language focus:** Containment of divergence and restoration of convergence in deterministic execution architectures.
 
-Potential integration scenarios include licensing discussions, technical diligence, domain-specific pilots, and architecture mapping for a larger governed-AI program. Nothing in this repository establishes a deployed suite, customer adoption, or a verified filing count. Commercial licensing and integration inquiries: [Grounded DI GitHub organization](https://github.com/Grounded-DI).
+### 14 · AGDI
 
-## Authorship, Provenance, and Intellectual Property
+**Application:** `19/722,955`  
+**Received:** 28 June 2026  
+**Title:** *State-Bound Continuation Control of Generative Agent Operations*  
+**Plain-language focus:** State-bound continuation control for generative-agent operations.
 
-Git history identifies Grounded DI LLC and Mark S. Weinstein as the repository authorship identity beginning July 31, 2025. The index files preserve dates, application names, redacted tier mappings, signal identifiers, and the filing-list chronology as public provenance records. These records support technical history and traceability; they do not independently establish legal ownership, patent priority, or patent issuance.
+### 15 · DEC
 
-No open-source license is present. Public availability does not grant reuse rights to the catalog, terminology, branding, redacted architecture, or nonpublic implementations. Review any future license, notice, citation file, release tag, and filing documentation separately with counsel.
+**Application:** `19/724,532`  
+**Received:** 29 June 2026  
+**Title:** *Deterministic Execution Control Using Constraint-Tree Enforcement, Agent-Type Classification, Escalation Routing, Audit-Linked Rollback, and Controlled Output Authorization*  
+**Plain-language focus:** Deterministic execution control through constraint trees, agent classification, escalation routing, rollback, and output authorization.
 
-## Status
+### 16 · AGIA
 
-**Status:** Active public portfolio, architecture, and provenance archive. It documents a broad family of named application concepts and their declared governance relationships; it is not a runnable 75-app distribution, patent registry, or production platform.
+**Application:** `19/724,908`  
+**Received:** 30 June 2026  
+**Title:** *Pre-Observability Expression-State Authorization and Output-Propagation Control of Machine-Generated Outputs*  
+**Plain-language focus:** Authorization of expression states before observability and control of output propagation.
 
-## Discovery
+### 17 · ELOC
 
-#DIApps #DeterministicAI #AIArchitecture #GovernedAI #PortfolioDiligence #Provenance #AuditTrail #GroundedDI
+**Application:** `19/726,030`  
+**Received:** 30 June 2026  
+**Title:** *Entropy-Linked Override Chain Enforcement in Generative Artificial Intelligence Systems*  
+**Plain-language focus:** Enforcement of entropy-linked override chains in generative AI systems.
+
+### 18 · Runtime (DIP / Scroll Architecture)
+
+**Application:** `19/726,765`  
+**Received:** 30 June 2026  
+**Title:** *DI Runtime Authorization, Canonical Receipt Binding, and Replay-Verified Execution Control*  
+**Plain-language focus:** Runtime authorization, canonical receipt binding, and replay-verified execution control.
+
+### 19 · DI-AGI
+
+**Application:** `19/726,890`  
+**Received:** 30 June 2026  
+**Title:** *Runtime-Governed Artificial-Intelligence Execution, Replay Verification, and Release Authorization*  
+**Plain-language focus:** Runtime-governed AI execution with replay verification and release authorization.
+
+### 20 · DepoBot
+
+**Application:** `19/730,739`  
+**Received:** 2 July 2026  
+**Title:** *Deterministic Intelligence Systems and Methods for Controlled Deposition Artifact Generation, Validation, Replay Verification, and Authorized Output Delivery*  
+**Plain-language focus:** Controlled deposition-artifact generation with validation, replay verification, and authorized delivery.
+
+### 21 · DI Hazard Intelligence
+
+**Application:** `19/736,923`  
+**Received:** 9 July 2026  
+**Title:** *Deterministic Intelligence Systems and Methods for Threshold-Gated Multi-Hazard Evaluation and Audit-Traceable Emergency Assistance*  
+**Plain-language focus:** Threshold-gated multi-hazard evaluation and audit-traceable emergency assistance.
+
+### 22 · DI LLM Entropy Control
+
+**Application:** `19/748,124`  
+**Received:** 20 July 2026  
+**Title:** *Systems And Methods For Deterministic Entropy Governance And Entropy-Linked Override Enforcement In Generative Artificial Intelligence Systems*  
+**Plain-language focus:** Deterministic entropy governance and entropy-linked override enforcement in generative AI systems.
+
+### 23 · Shopping / Consumer
+
+**Application:** `19/765,102`  
+**Received:** 24 July 2026  
+**Title:** *Deterministic intelligence systems and methods for consumer decision-control, evidence-linked commercial assessment, transaction-state authorization, and replay*  
+**Plain-language focus:** Consumer decision-control and evidence-linked commercial assessment with transaction-state authorization and replay.
+
+## Scope
+
+This README publishes the 23 exact application records currently shown in the cited public register. It does not infer an additional application from a portfolio count or from related provisional records.
+
+Patent applications are distinct from issued patents. For examination status, claim scope, priority, ownership, allowance, or issuance, consult the relevant USPTO record or other controlling source.
+
+## Related repository records
+
+- [Portfolio catalog](Top_75_Deterministic_Apps.md)
+- [Redacted scroll mapping](DI_Scrolls_Apps.md)
+- [Superseded historical filing-list page](Patents.md)
+
+© Grounded DI LLC. All rights reserved.
