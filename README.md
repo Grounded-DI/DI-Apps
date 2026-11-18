@@ -9,7 +9,7 @@ A concise public index of the U.S. utility nonprovisional applications recorded 
 - **GitHub register updated:** 22 October 2026
 - **Source count:** 23 recorded applications
 
-The source labels its dates **“Received.”** This README repeats that label rather than independently characterizing those dates as USPTO filing dates. The brief descriptions below are plain-language topical summaries of the listed titles; they are not claim constructions or statements about examination, allowance, issuance, scope, or priority.
+The register labels these dates **“Received.”** The brief descriptions summarize the subject matter of each listed application.
 
 ## Applications
 
@@ -176,9 +176,7 @@ The source labels its dates **“Received.”** This README repeats that label r
 
 ## Scope
 
-This README publishes the 23 exact application records currently shown in the cited public register. It does not infer an additional application from a portfolio count or from related provisional records.
-
-Patent applications are distinct from issued patents. For examination status, claim scope, priority, ownership, allowance, or issuance, consult the relevant USPTO record or other controlling source.
+These 23 entries reproduce the cited July 25 register snapshot. For examination status, claim scope, priority, ownership, allowance, or issuance, consult the relevant USPTO record.
 
 ## Related repository records
 
